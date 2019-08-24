@@ -1,0 +1,298 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Desiree E. Stuart-Alexander</origin>
+				<pubdate>1978</pubdate>
+				<title Sync="TRUE">I_1047_geology</title>
+				<edition></edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<othercit>
+Miscellaneous Investigations Series, I-1047
+Published by the US Geological Survey, 1978
+</othercit>
+				<onlink Sync="TRUE">\\IGSWZAWGWSAG006\E\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1047\Geodatabase\I_1047.gdb</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin></origin>
+						<pubdate></pubdate>
+						<title></title>
+						<pubinfo>
+							<pubplace></pubplace>
+							<publish></publish>
+						</pubinfo>
+						<onlink></onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">I_1047_geology</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This map is one of a series of geologic maps that cover the entire Moon at a scale of 1:5,000,000. The geology of the central far side is compiled largely from NASA Lunar Orbiter and Apollo photographs and Soviet Zond photographs; the discussion and interpretation of geologic units incorporate the geochemical and geophysical data obtained from orbiting spacecraft. Geologic units are based on the stratigraphic framework established by Shoemaker and Hackman (1962) as subsequently revised (summarized by McCauley, 1967; Wilhelms, 1970; Mutch, 1972; Stuart-Alexander and Wilhelms, 1975). Description of map units is brief because they largely follow units described on the nearside 1:5,000,000 map of Wilhelms and McCauley (1971).
+</abstract>
+			<langdata Sync="TRUE">en</langdata><purpose>The chief purpose of the 1:5,000,000-scale map is to summarize the current state of lunar geologic knowledge as developed from the U.S. Geological Survey's systematic lunar mapping program, which began in 1960. Like terrestrial synoptic maps it provides a stratigraphic framework to be used for developing new theory and for determining the regional significance of surface exploration results. The work is based both on results of the telescopic mapping program and on data from the unmanned lunar exploration program, particularly the regional coverage of Lunar Orbiter IV. The type of analysis presented on the 1:5,000,000 lunar geologic map, and indeed all remote planetary mapping, can be considered as geological taxonomy. In addition to serving as a framework for interpreting surface exploration results, the effort to classify units into type and age by photogeology narrows the range of possible origins for many features.</purpose><supplinf>Broad geologic patterns, formed primarily by the arrangement and relative abundance of units common to all provinces, divide the central lunar far side into four general provinces. The most diversified province fills the southern third of the mapped area and is coincident with a nearly obliterated pre-Nectarian basin, here named the South Pole Aitken basin for two landmarks along its rim. Within this basin is the largest far-side concentration of maria and light plains and also the unique occurrence of a strangely grooved material (unit Ig). Ringing the basin and locally covering it is a province consisting of a wide band of pre-Nectarian cratered terra (unit pNt). Two provinces constitute the northern half of the map area: a zone of nondescript irregular terra (unit NpNt) occupies most of it, and a smaller, irregular patch of pre-Nectarian cratered terra (unit pNt) occurs along the north-east to northcentral border of the area. Key features within all provinces are the multiringed circular basins and some areally restricted terra and plains units. An unrelenting rain of bolides produced the shotgun pattern of craters randomly superposed over the entire map area.</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>unknown</begdate>
+					<enddate>1978</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-179.999984</westbc>
+				<eastbc Sync="TRUE">179.999984</eastbc>
+				<northbc Sync="TRUE">49.991301</northbc>
+				<southbc Sync="TRUE">-50.004280</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-179.999984</leftbc><rightbc Sync="TRUE">179.999984</rightbc><bottombc Sync="TRUE">-50.004280</bottombc><topbc Sync="TRUE">49.991301</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Moon</themekey>
+				<themekey>Geology</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>South_Pole_Aitken_basin</placekey>
+			</place>
+		</keywords>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+					<cntper></cntper>
+				</cntorgp>
+				<cntpos>Map Distribution</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Box 25286, Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice></cntvoice>
+				<cntfax></cntfax>
+				<cntemail></cntemail>
+				<hours></hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+		<natvform Sync="TRUE">File Geodatabase Feature Class</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+All attributes created during the creation process were
+verified by displaying the lines in both the database and
+the spatial coverage, but no formal tests were performed.
+</attraccr>
+		</attracc>
+		<logic>
+These data are believed to be logically consistent, though
+no tests were performed. Line geometry is topologically clean.
+</logic>
+		<posacc>
+			<horizpa>
+			</horizpa>
+			<vertacc>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Desiree E. Stuart-Alexander</origin>
+						<pubdate>1978</pubdate>
+						<title>GEOLOGIC MAP OF THE CENTRAL FAR SIDE OF THE MOON</title>
+						<edition></edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>
+Miscellaneous Investigations Series, I-1047
+Published by the US Geolgoical Survey, 1978
+</othercit>
+						<onlink></onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin></origin>
+								<pubdate></pubdate>
+								<title></title>
+								<pubinfo>
+									<pubplace></pubplace>
+									<publish></publish>
+								</pubinfo>
+								<onlink></onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>1:5,000,000</srcscale>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+						</rngdates>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Desiree E. Stuart-Alexander</origin>
+						<pubdate>1978</pubdate>
+						<title>GEOLOGIC MAP OF THE CENTRAL FAR SIDE OF THE MOON</title>
+						<edition></edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>
+Miscellaneous Investigations Series, I-1047
+Published by the US Geolgoical Survey, 1978
+</othercit>
+						<onlink></onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin></origin>
+								<pubdate></pubdate>
+								<title></title>
+								<pubinfo>
+									<pubplace></pubplace>
+									<publish></publish>
+								</pubinfo>
+								<onlink></onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>1:5,000,000</srcscale>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate></begdate>
+							<enddate></enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr></srccurr>
+				</srctime>
+				<srccitea></srccitea>
+				<srccontr></srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Primary data source, NASA Lunar Orbiter moderate-resolution
+photographs on index map). High resolution frames lie
+within
+moderate-resolution and were supplementary data source;
+they were main
+data for frame 30.
+Zond 8 (USSR) and Apollo 15, 16, and 17 photographs supplementary.
+</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Trent Hare</cntper>
+							<cntorg>United States Geological Survey</cntorg>
+						</cntperp>
+						<cntpos>Computer Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>2255 N Gemini Dr</address>
+							<city>Flagstaff</city>
+							<state>AZ</state>
+							<postal>86001</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>928-556-7126</cntvoice>
+						<cntemail>thare@usgs.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">E:\Temp\xml1DB5.tmp</srcused><date Sync="TRUE">20080814</date><time Sync="TRUE">11030600</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">E:\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1047\Metadata\I_1047metadata.xml</srcused><procdate Sync="TRUE">20090629</procdate><proctime Sync="TRUE">13181100</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="I_1047_Labels"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="1" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_Moon_1961</horizdn>
+				<ellips Sync="TRUE">Moon_1961_IAU_IAG</ellips>
+				<semiaxis Sync="TRUE">1738000.000000</semiaxis>
+				<denflat Sync="TRUE">infinity</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Moon_1961</geogcsn></cordsysn></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">0.000100</altres></altsys></vertdef></spref>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+					<cntper>Trent Hare</cntper>
+				</cntorgp>
+				<cntpos>Computer Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2255 N Gemini Dr</address>
+					<city>Flagstaff</city>
+					<state>AZ</state>
+					<postal>86001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>928-556-7126</cntvoice>
+				<cntemail>thare@usgs.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>
+Information has been obtained from sources believed to be
+reliable, but its accuracy and completeness and the
+opinions based thereon, are not guaranteed. As every effort
+is made to provide accurate information in this database,
+USGS would appreciate it if users could call to our
+attention any errors that may occur by communicating with
+the contact person.
+</distliab>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20090722</metd>
+		<metrd>08/24/00</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+					<cntper>Trent Hare</cntper>
+				</cntorgp>
+				<cntpos>Computer Specialist</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>2255 N Gemini Dr</address>
+					<city>Flagstaff</city>
+					<state>AZ</state>
+					<postal>86001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>928-556-7126</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc></metainfo>
+	<Esri><CreaDate>20090629</CreaDate><CreaTime>13181100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20130321</SyncDate><SyncTime>16221500</SyncTime><ModDate>20130321</ModDate><ModTime>16221500</ModTime><MetaID>{20F8C463-4F3F-4462-B3B9-9102C9EAD0A2}</MetaID><DataProperties><itemProps><itemName Sync="TRUE">I_1047_Labels</itemName><imsContentType Sync="TRUE">002</imsContentType><itemLocation><linkage Sync="TRUE">file://\\IGSWZAWGLT-THAR\D$\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1047\Shapefiles\I_1047_Labels.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_Moon_2000</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_Moon_2000&amp;quot;,DATUM[&amp;quot;D_Moon_2000&amp;quot;,SPHEROID[&amp;quot;Moon_2000_IAU_IAG&amp;quot;,1737400.0,0.0]],PRIMEM[&amp;quot;Reference_Meridian&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;ESRI&amp;quot;,104903]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;3.2977886216808065e-008&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;104903&lt;/WKID&gt;&lt;LatestWKID&gt;104903&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="c:\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\FeatureToPoint" Date="20120131" Time="111351">FeatureToPoint I_1047_geology E:\Lunar\Geology_New\I-1047\I_1047.gdb\I_1047_Moon1978_ographic_180\I_1047_Labels INSIDE</Process><Process ToolSource="c:\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20130321" Time="162216">CopyFeatures D:\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1047\I_1047.gdb\I_1047_Geology\I_1047_Labels D:\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1047\Shapefiles\I_1047_Labels.shp # 0 0 0</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</envirDesc><dataLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">I_1047_Labels</resTitle><presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-179.999984</westBL><eastBL Sync="TRUE">179.999984</eastBL><northBL Sync="TRUE">49.991301</northBL><southBL Sync="TRUE">-50.00428</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-179.999984</westBL><eastBL Sync="TRUE">179.999984</eastBL><northBL Sync="TRUE">49.991301</northBL><southBL Sync="TRUE">-50.00428</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType></dataIdInfo><mdLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\IGSWZAWGWSAG006\E\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1047\Geodatabase\I_1047.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">File Geodatabase Feature Class</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" value="104903" code="104903">GCS_Moon_1961</identCode><idCodeSpace Sync="TRUE">ESRI</idCodeSpace><idVersion Sync="TRUE">10.1.1</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="I_1047_Labels"><geoObjTyp><GeoObjTypCd value="004" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20130321</mdDateSt><eainfo><detailed Name="I_1047_Labels"><enttyp><enttypl Sync="TRUE">I_1047_Labels</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc><enttypd>the geologic unit portion of the geologic map </enttypd></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">UnitSymbol</attrlabl><attalias Sync="TRUE">UnitSymbol</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Cc</edomv><edomvd>Material of Very Sharp Rimmed Rayed Craters, Copernican System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ec</edomv><edomvd>Material of Sharp Rimmed Craters, Eratosthenian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ic2</edomv><edomvd>Material of Single Craters, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ic1</edomv><edomvd>Material of Single Craters, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ic</edomv><edomvd>Material of Imbrian Craters Undivided, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ico</edomv><edomvd>Material of Elongate Clusters of Craters Approximately Radial to Orientale Basin, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Icc</edomv><edomvd>Material of Elongate and Irregular Clusters of Craters, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ifc</edomv><edomvd>Furrowed Raised Crater Floor or Fill Material, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nc</edomv><edomvd>Material of Subdued Craters, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ncc</edomv><edomvd>Material of Elongate Clusters of Subdued Craters, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNc</edomv><edomvd>Material of Subdued to Very Subdued Craters, pre-Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nb</edomv><edomvd>Material of Raised Rims and Slumped Walls of Basins, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nbl</edomv><edomvd>Lineated Material Surrounding Basins, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>NpNbm</edomv><edomvd>Material of Nectarian Basin Massifs, Nectarian and pre-Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>NpNbr</edomv><edomvd>Material of Rugged Mountains and Mountain Segments of Nectarian Basins, Nectarian and pre-Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNb</edomv><edomvd>Material of Rugged Mountains and Mountain Segments of Nectarian Basins, Nectarian and pre-Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNbm</edomv><edomvd>Material of Pre Nectarian Basin Massifs, pre-Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNbr</edomv><edomvd>Rugged Materials of Pre Nectarian Basins, pre-Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Im</edomv><edomvd>Mare Materials of Dark Plains, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ig</edomv><edomvd>Material of Grooves and Mounds, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ip</edomv><edomvd>Smooth Light Plains, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>INp</edomv><edomvd>Light Plains, Imbrian and Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Np</edomv><edomvd>Highly Cratered Light Plains, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>It</edomv><edomvd>Relatively Fresh Appearing Irregular Terra, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nt</edomv><edomvd>Rolling Terra, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>NpNt</edomv><edomvd>Irregular Terra, Nectarian and pre-Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNt</edomv><edomvd>Cratered Terra, pre-Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom></attrdomv><attrdef>symbol representing a geologic unit</attrdef></attr><attr><attrlabl Sync="TRUE">UnitName</attrlabl><attalias Sync="TRUE">UnitName</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Cratered Terra</edomv><edomvd>Cratered Terra</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Furrowed Raised Crater Floor or Fill Material</edomv><edomvd>Furrowed Raised Crater Floor or Fill Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Highly Cratered Light Plains</edomv><edomvd>Highly Cratered Light Plains</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Irregular Terra</edomv><edomvd>Irregular Terra</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Light Plains</edomv><edomvd>Light Plains</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Lineated Material Surrounding Basins</edomv><edomvd>Lineated Material Surrounding Basins</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Mare Materials of Dark Plains</edomv><edomvd>Mare Materials of Dark Plains</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Elongate and Irregular Clusters of Craters</edomv><edomvd>Material of Elongate and Irregular Clusters of Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Elongate Clusters of Craters Approximately Radial to Orientale Basin</edomv><edomvd>Material of Elongate Clusters of Craters Approximately Radial to Orientale Basin</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Elongate Clusters of Subdued Craters</edomv><edomvd>Material of Elongate Clusters of Subdued Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Grooves and Mounds</edomv><edomvd>Material of Grooves and Mounds</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Imbrian Craters Undivided</edomv><edomvd>Material of Imbrian Craters Undivided</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Nectarian Basin Massifs</edomv><edomvd>Material of Nectarian Basin Massifs</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Pre Nectarian Basin Massifs</edomv><edomvd>Material of Pre Nectarian Basin Massifs</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Raised Rims and Slumped Walls of Basins</edomv><edomvd>Material of Raised Rims and Slumped Walls of Basins</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Rugged Mountains and Mountain Segments of Nectarian Basins</edomv><edomvd>Material of Rugged Mountains and Mountain Segments of Nectarian Basins</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Sharp Rimmed Craters</edomv><edomvd>Material of Sharp Rimmed Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Single Craters</edomv><edomvd>Material of Single Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Subdued Craters</edomv><edomvd>Material of Subdued Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Subdued to Very Subdued Craters</edomv><edomvd>Material of Subdued to Very Subdued Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Material of Very Sharp Rimmed Rayed Craters</edomv><edomvd>Material of Very Sharp Rimmed Rayed Craters</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Pre Nectarian Basin Material</edomv><edomvd>Pre Nectarian Basin Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Relatively Fresh Appearing Irregular Terra</edomv><edomvd>Relatively Fresh Appearing Irregular Terra</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Rolling Terra</edomv><edomvd>Rolling Terra</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Rugged Materials of Pre Nectarian Basins</edomv><edomvd>Rugged Materials of Pre Nectarian Basins</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Smooth Light Plains</edomv><edomvd>Smooth Light Plains</edomvd><edomvds>UnitName</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">MajorGroup</attrlabl><attalias Sync="TRUE">MajorGroup</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Basin Materials</edomv><edomvd>Basin Materials</edomvd><edomvds>MajorGroup</edomvds></edom><edom><edomv>Crater Materials</edomv><edomvd>Crater Materials</edomvd><edomvds>MajorGroup</edomvds></edom><edom><edomv>Other Materials</edomv><edomvd>Other Materials</edomvd><edomvds>MajorGroup</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">UnitDescri</attrlabl><attalias Sync="TRUE">UnitDescri</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">110</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Epoch</attrlabl><attalias Sync="TRUE">Epoch</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Copernican System</edomv><edomvd>Copernican System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Eratosthenian System</edomv><edomvd>Eratosthenian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Imbrian and Nectarian Systems</edomv><edomvd>Imbrian and Nectarian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Imbrian System</edomv><edomvd>Imbrian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Nectarian and pre-Nectarian Systems</edomv><edomvd>Nectarian and pre-Nectarian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Nectarian System</edomv><edomvd>Nectarian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>pre-Nectarian System</edomv><edomvd>pre-Nectarian System</edomvd><edomvds>Epoch</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">ORIG_FID</attrlabl><attalias Sync="TRUE">ORIG_FID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed><detailed Name="I_1047_structure"><enttyp><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">159</enttypc></enttyp></detailed><detailed Name="I_1047_contacts"><enttyp><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4852</enttypc></enttyp></detailed></eainfo></metadata>

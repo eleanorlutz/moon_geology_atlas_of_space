@@ -1,0 +1,34 @@
+COMPLETED DIGITAL RENOVATION OF THE 1:5,000,000 LUNAR GEOLOGIC MAP SERIES
+March 2013 
+Version 0.2
+
+by: Corey. M. Fortezzo and T. M. Hare, 
+U.S. Geologic Survey, Astrogeology Science Center, 
+2255 N. Gemini Dr., Flagstaff, Arizona
+(cfortezzo@usgs.gov).
+
+May 2015, Update to "Nbl" polygon to help with crossover
+issue in ArcMap.
+
+Introduction: In continuing support of a NASA
+Planetary Geology and Geophysics-funded project to
+digitize existing 1:5M-scale lunar paper maps, we
+have renovated the digital versions of all of the 1:5M
+series geologic maps. Because of increasing
+emphasis on lunar studies from recent orbital data
+returns, the renovations used new topographic data
+and image mosaics to adjust the original linework
+and the map boundary to the current ULCN2005 and
+the Lunar Reconnaissance Orbiter (LRO) Lunar Orbiter
+Laser Altimeter (LOLA) control networks.
+The far-side maps were digitized to the new
+bases and are ready for distribution.
+These maps are not reinterpretations
+
+Original maps:
+[1] Wilhelms, D.E. and J.F. Mac-Cauley (1971) Map I-703. 
+[2] Wilhelms, D.E., et al. (1979) Map I-1162. 
+[3] Lucchitta, B.K. (1978) Map I-1062. 
+[4] Wilhelms, D.E. and F. El-Baz (1977) Map I-948. 
+[5] Stuart-Alexander, D.E. (1978) Map I-1047.
+[6] Scott, D.H. et al. (1977) Map I-1034.

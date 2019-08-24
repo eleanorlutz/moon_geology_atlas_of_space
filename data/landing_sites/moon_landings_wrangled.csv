@@ -1,0 +1,47 @@
+name,manned,year,NS,EW,color
+Luna 2,False,1959,29.1,0.0,#3c659b
+Ranger 4,False,1962,-15.5,-130.7,#22b4b4
+Ranger 7,False,1964,-10.634,-20.6771,#22b4b4
+Ranger 6,False,1964,9.33,21.52,#22b4b4
+Ranger 9,False,1965,-12.83,-2.37,#22b4b4
+Luna 8,False,1965,9.1,-63.3,#22b4b4
+Luna 7,False,1965,9.8,-47.8,#22b4b4
+Luna 5,False,1965,8,-23.0,#22b4b4
+Ranger 8,False,1965,2.6377,24.7881,#22b4b4
+Lunar Orbiter 2,False,1966,3,119.1,#22b4b4
+Luna 9,False,1966,7.08,-64.37,#22b4b4
+Surveyor 1,False,1966,-2.474,-43.339,#22b4b4
+Lunar Orbiter 1,False,1966,6.35,160.72,#22b4b4
+Luna 13,False,1966,18.87,-62.05,#22b4b4
+Surveyor 2,False,1966,-4,-11.0,#22b4b4
+Surveyor 6,False,1967,0.49,-1.4,#22b4b4
+Surveyor 3,False,1967,-2.94,-23.34,#22b4b4
+Lunar Orbiter 5,False,1967,-2.79,-83.01,#22b4b4
+Lunar Orbiter 3,False,1967,14.3,-97.7,#22b4b4
+Surveyor 4,False,1967,0.45,-1.39,#22b4b4
+Surveyor 5,False,1967,1.41,23.18,#22b4b4
+Surveyor 7,False,1968,-41.01,-11.41,#22b4b4
+Apollo 11,True,1969,0.67408,23.47297,#22b4b4
+Luna 15,False,1969,17,60.0,#22b4b4
+Apollo 12,True,1969,-3.01239,-23.42157,#22b4b4
+Luna 17,False,1970,38.28,-35.0,#ece4cf
+Luna 16,False,1970,-0.683333,56.3,#ece4cf
+Luna 18,False,1971,3.566667,56.5,#ece4cf
+Apollo 14,True,1971,-3.6453,-17.47136,#ece4cf
+Apollo 15,True,1971,26.1322,3.6339,#ece4cf
+Apollo 17,True,1972,20.1908,30.7717,#ece4cf
+Apollo 16,True,1972,-8.97301,15.50019,#ece4cf
+Luna 20,False,1972,3.533333,56.55,#ece4cf
+Luna 21,False,1973,25.85,30.45,#ece4cf
+Luna 23,False,1974,12.6669,62.1511,#ece4cf
+Luna 24,False,1976,12.7145,62.2129,#ece4cf
+Hiten,False,1993,-34.3,55.6,#b1be00
+Lunar Prospector,False,1998,-87.7,42.1,#b1be00
+SMART-1,False,2004,-34.262,-46.193,#e4a6a7
+Chang'e 1,False,2007,-1.5,52.36,#e4a6a7
+Moon Impact Probe,False,2008,-89.9,0.0,#e4a6a7
+LCROSS,False,2009,-84.729,-49.36,#e4a6a7
+Ebb,False,2012,75.6504,33.1643,#d93d31
+Yutu (rover),False,2013,44.12,-19.51,#d93d31
+Beresheet,False,2019,28,17.5,#d93d31
+Chang'e 4,False,2019,-44.8,175.9,#d93d31

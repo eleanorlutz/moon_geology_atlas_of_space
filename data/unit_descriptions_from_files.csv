@@ -1,0 +1,195 @@
+UnitSymbol,UnitName,MajorGroup,UnitDescri,Data_source,Duplicated
+cf,,,,I-1062,False
+INbl,Undivided Lineated Basin Material,Basin Materials,"Undivided Lineated Basin Material, Imbrian and Nectarian Systems",I-1062,False
+Ia,Alpes Formation,Basin Materials,"Alpes Formation, Imbrian System",I-1062,False
+If,Fra Mauro Formation,Basin Materials,"Fra Mauro Formation, Imbrian System",I-1062,True
+Iic,Material of Imbrium-Basin Secondary-Impact Craters,Basin Materials,"Material of Imbrium-Basin Secondary-Impact Craters, Imbrian System",I-1162,False
+Ioc,Material of Orientale-Basin Satellitic Craters,Basin Materials,"Material of Orientale-Basin Satellitic Craters, Imbrian System",I-1162,False
+Iohi,Hevelius Formation - Inner facies,Basin Materials,"Hevelius Formation - Inner facies, Imbrian System",I-1162,True
+Iohn,Hevelius Formation - Nonlineated facies,Basin Materials,"Hevelius Formation - Nonlineated facies, Imbrian System",I-1162,False
+Ioho,Hevelius Formation - Outer facies,Basin Materials,"Hevelius Formation - Outer facies, Imbrian System",I-1162,True
+IpNbm,Material of Imbrium Basin Massifs,Basin Materials,"Material of Imbrium Basin Massifs, Imbrian, Nectarian, and pre-Nectarian Systems",I-1062,False
+IpNl,Imbrian Lineated Basin Material,Basin Materials,"Imbrian Lineated Basin Material, Imbrian, Nectarian, and pre-Nectarian Systems",I-1062,False
+Nb,Basin Material Undivided,Basin Materials,"Basin Material Undivided, Nectarian System",I-0948,False
+Nb,Material of Raised Rims and Slumped Walls of Basins,Basin Materials,"Material of Raised Rims and Slumped Walls of Basins, Nectarian System",I-1047,True
+Nb,Undivided Basin Material,Basin Materials,"Undivided Basin Material, Nectarian System",I-1062,True
+Nb,Basin Material,Basin Materials,"Basin Material, Nectarian System",I-1162,True
+Nbc,Material of Nectarian-Basin Satellitic Craters,Basin Materials,"Material of Nectarian-Basin Satellitic Craters, Nectarian System",I-1162,False
+Nbh,Hummocky Basin Material,Basin Materials,"Hummocky Basin Material, Nectarian System",I-1162,False
+Nbl,Lineated Material Around Basins,Basin Materials,"Lineated Material Around Basins, Nectarian System",I-0948,False
+Nbl,Lineated Material Surrounding Basins,Basin Materials,"Lineated Material Surrounding Basins, Nectarian System",I-1047,True
+Nbl,Lineated Basin Material,Basin Materials,"Lineated Basin Material, Nectarian System",I-1062,True
+Nbl,"Basin Material, Lineated",Basin Materials,"Basin Material, Lineated, Nectarian System",I-1162,True
+Nbm,Basin-Massif Material,Basin Materials,"Basin-Massif Material, Nectarian System",I-1162,False
+Nj,Janssen Formation,Basin Materials,"Janssen Formation, Nectarian System",I-0948,False
+Nj,Janssen Formation,Basin Materials,"Janssen Formation, Nectarian System",I-1162,True
+NpNbm,Material of Basin Massifs,Basin Materials,"Material of Basin Massifs, Nectarian and pre-Nectarian System",I-0948,False
+NpNbm,Material of Nectarian Basin Massifs,Basin Materials,"Material of Nectarian Basin Massifs, Nectarian and pre-Nectarian Systems",I-1047,True
+NpNbm,Material of Humboldtianum Basin Massifs,Basin Materials,"Material of Humboldtianum Basin Massifs, Nectarian and pre-Nectarian Systems",I-1062,True
+NpNbr,Material of Rugged Basin Terrain,Basin Materials,"Material of Rugged Basin Terrain, Nectarian and pre-Nectarian System",I-0948,False
+NpNbr,Material of Rugged Mountains and Mountain Segments of Nectarian Basins,Basin Materials,"Material of Rugged Mountains and Mountain Segments of Nectarian Basins, Nectarian and pre-Nectarian Systems",I-1047,True
+NpNbr,Material of Rugged Basin Terrain,Basin Materials,"Material of Rugged Basin Terrain, Nectarian and pre-Nectarian Systems",I-1062,True
+pNb,Pre Nectarian Basin Material,Basin Materials,"Pre Nectarian Basin Material, pre-Nectarian System",I-1047,False
+pNb,"Basin Material, Undivided",Basin Materials,"Basin Material, Undivided, pre-Nectarian System",I-1162,True
+pNbm,Material of Basin Massifs,Basin Materials,"Material of Basin Massifs, pre-Nectarian System",I-0948,False
+pNbm,Material of Pre Nectarian Basin Massifs,Basin Materials,"Material of Pre Nectarian Basin Massifs, pre-Nectarian System",I-1047,True
+pNbm,Basin Massif Material,Basin Materials,"Basin Massif Material, pre-Nectarian System",I-1162,True
+pNbr,Material of Rugged Basin Terrain,Basin Materials,"Material of Rugged Basin Terrain, pre-Nectarian System",I-0948,False
+pNbr,Rugged Materials of Pre Nectarian Basins,Basin Materials,"Rugged Materials of Pre Nectarian Basins, pre-Nectarian System",I-1047,True
+pNbr,"Basin Material, Rugged",Basin Materials,"Basin Material, Rugged, pre-Nectarian System",I-1162,True
+Ial,Alpes Formation,Circumbasin Materials,"Alpes Formation, Imbrian System",I-0703,False
+Iap,Material of Montes Apenninus,Circumbasin Materials,"Material of Montes Apenninus, Imbrian System",I-0703,False
+If,Fra Mauro Formation,Circumbasin Materials,"Fra Mauro Formation, Imbrian System",I-0703,False
+Ihe,Hevelius Formation,Circumbasin Materials,"Hevelius Formation, Imbrian System",I-0703,False
+pIj,Janssen Formation,Circumbasin Materials,"Janssen Formation, pre-Imbrian System",I-0703,False
+pIl,Lineated Material,Circumbasin Materials,"Lineated Material, pre-Imbrian System",I-0703,False
+pIr,Rugged Material,Circumbasin Materials,"Rugged Material, pre-Imbrian System",I-0703,False
+plr,Rugged Material,Circumbasin Materials,"Rugged Material, pre-Imbrian System",I-0703,False
+Cc,Material of Rayed Craters,Crater Materials,"Material of Rayed Craters, Copernican System",I-0948,True
+Cc,Material of Very Sharp Rimmed Rayed Craters,Crater Materials,"Material of Very Sharp Rimmed Rayed Craters, Copernican System",I-1047,True
+Cc,Material of Rayed Craters,Crater Materials,"Material of Rayed Craters, Copernican System",I-1062,True
+Ccc,Material of Crater Chain,Crater Materials,"Material of Crater Chain, Copernican System",I-1062,False
+Ec,Crater Material,Crater Materials,"Undivided Crater Material, Eratosthenian System",I-0703,False
+Ec,Material of Fresh Nonrayed Circular Craters,Crater Materials,"Material of Fresh Nonrayed Circular Craters, Eratosthenian System",I-0948,True
+Ec,Material of Sharp Rimmed Craters,Crater Materials,"Material of Sharp Rimmed Craters, Eratosthenian System",I-1047,True
+Ec,Material of Fresh Craters,Crater Materials,"Material of Fresh Craters, Eratosthenian System",I-1062,True
+Ecc,Material of Crater Chain,Crater Materials,"Material of Crater Chain, Eratosthenian System",I-1062,False
+Ic,Material of Imbrian Craters Undivided,Crater Materials,"Material of Imbrian Craters Undivided, Imbrian System",I-1047,True
+Ic1,Material of Moderately Subdued Circular Craters,Crater Materials,"Material of Moderately Subdued Circular Craters, Imbrian System",I-0948,True
+Ic1,Material of Single Craters,Crater Materials,"Material of Single Craters, Imbrian System",I-1047,True
+Ic1,Material of Moderately Subdued Craters,Crater Materials,"Material of Moderately Subdued Craters, Imbrian System",I-1062,True
+Ic2,Material of Moderately Fresh Circular Craters,Crater Materials,"Material of Moderately Fresh Circular Craters, Imbrian System",I-0948,True
+Ic2,Material of Single Craters,Crater Materials,"Material of Single Craters, Imbrian System",I-1047,True
+Ic2,Material of Moderately Fresh Craters,Crater Materials,"Material of Moderately Fresh Craters, Imbrian System",I-1062,True
+Icc,Material of Moderately Fresh Crater Chains Clusters and Irregular,Crater Materials,"Material of Moderately Fresh Crater Chains Clusters and Irregular, Imbrian System",I-0948,True
+Icc,Material of Elongate and Irregular Clusters of Craters,Crater Materials,"Material of Elongate and Irregular Clusters of Craters, Imbrian System",I-1047,True
+Icc1,Material of Crater Clusters and Chains,Crater Materials,"Material of Crater Clusters and Chains, Imbrian System",I-1062,False
+Icc2,Material of Crater Clusters and Chains,Crater Materials,"Material of Crater Clusters and Chains, Imbrian System",I-1062,False
+Ico,Material of Elongate Clusters of Craters Approximately Radial to Orientale Basin,Crater Materials,"Material of Elongate Clusters of Craters Approximately Radial to Orientale Basin, Imbrian System",I-1047,False
+Ifc,Material of Furrowed Crater Floors,Crater Materials,"Material of Furrowed Crater Floors, Imbrian System",I-0948,False
+Ifc,Furrowed Raised Crater Floor or Fill Material,Crater Materials,"Furrowed Raised Crater Floor or Fill Material, Imbrian System",I-1047,True
+IpNcl,Material of Lineated Craters,Crater Materials,"Material of Lineated Craters, Imbrian, Nectarian, and pre-Nectarian Systems",I-1062,False
+Irc,Material of Ringed Craters,Crater Materials,"Material of Ringed Craters, Imbrian System",I-0948,False
+Isc,Material of Secondary Crater Clusters and Chains,Crater Materials,"Material of Secondary Crater Clusters and Chains, Imbrian System",I-0948,True
+Nc,Material of Subdued Circular Craters,Crater Materials,"Material of Subdued Circular Craters, Nectarian System",I-0948,False
+Nc,Material of Subdued Craters,Crater Materials,"Material of Subdued Craters, Nectarian System",I-1047,True
+Nc,Material of Subdued Craters,Crater Materials,"Material of Subdued Craters, Nectarian System",I-1062,True
+Ncc,Material of Subdued Crater Clusters Chains and Irregular Craters,Crater Materials,"Material of Subdued Crater Clusters Chains and Irregular Craters, Nectarian System",I-0948,False
+Ncc,Material of Elongate Clusters of Subdued Craters,Crater Materials,"Material of Elongate Clusters of Subdued Craters, Nectarian System",I-1047,True
+Ncc,Material of Crater Clusters and Chains,Crater Materials,"Material of Crater Clusters and Chains, Nectarian System",I-1062,True
+pNc,Material of Highly Subdued Mostly Narrow-Rimmed Circular Craters,Crater Materials,"Material of Highly Subdued Mostly Narrow-Rimmed Circular Craters, pre-Nectarian System",I-0948,False
+pNc,Material of Subdued to Very Subdued Craters,Crater Materials,"Material of Subdued to Very Subdued Craters, pre-Nectarian System",I-1047,True
+pNc,Material of Highly Subdued Craters,Crater Materials,"Material of Highly Subdued Craters, pre-Nectarian System",I-1062,True
+pNcc,Material of Highly Subdued Crater Chains Clusters and Irregular Crater,Crater Materials,"Material of Highly Subdued Crater Chains Clusters and Irregular Crater, pre-Nectarian System",I-0948,False
+CId,Dark Mantling Material,Dark Materials,"Dark Mantling Material, Copernican, Eratosthenian, and Imbrian Systems",I-0703,False
+Em,Mare Material,Dark Materials,"Mare Material, Eratosthenian System",I-0703,False
+Emd,Mare Dome Material,Dark Materials,"Mare Dome Material, Eratosthenian System",I-0703,False
+Emp,Mare Plateau Material,Dark Materials,"Mare Plateau Material, Eratosthenian System",I-0703,False
+Im,Mare Material,Dark Materials,"Mare Material, Imbrian System",I-0703,False
+CEd,Dome Material,Distinctive Materials,"Dome Material, Copernican and Eratosthenian Systems",I-0703,False
+CEhf,Hilly and Furrowed Material,Distinctive Materials,"Hilly and Furrowed Material, Copernican and Eratosthenian Systems",I-0703,False
+Cp,Plains Material,Distinctive Materials,"Plains Material, Copernican System",I-0703,False
+Id,Dome Material,Distinctive Materials,"Dome Material, Imbrian System",I-0703,False
+Ih,Hilly Material,Distinctive Materials,"Hilly Material, Imbrian System",I-0703,False
+Ihf,Hilly and Furrowed Material,Distinctive Materials,"Hilly and Furrowed Material, Imbrian System",I-0703,False
+Ihp,Hilly and Pitted Material,Distinctive Materials,"Hilly and Pitted Material, Imbrian System",I-0703,False
+Ip,Plains Material,Distinctive Materials,"Plains Material, Imbrian System",I-0703,False
+pIp,Plains Material,Distinctive Materials,"Plains Material, pre-Imbrian System",I-0703,False
+CEci,Irregular-Crater Material,Irregular Crater Materials,"Irregular-Crater Material, Copernican and Eratosthenian Systems",I-0703,False
+Ici,Irregular-Crater Material,Irregular Crater Materials,"Irregular-Crater Material, Imbrian System",I-0703,False
+pIci,Irregular-Crater Material,Irregular Crater Materials,"Irregular-Crater Material, pre-Imbrian System",I-0703,False
+Eld,Dark Material,Mare and Dark Mantle Materials,"Dark Material, Eratosthenian or Imbrian Systems",I-1062,True
+Em,Younger Mare Material,Mare and Dark Mantle Materials,"Younger Mare Material, Eratosthenian System",I-1062,True
+Im,Older Mare Material,Mare and Dark Mantle Materials,"Older Mare Material, Imbrian System",I-1062,True
+EIm,Youngest Mare Material,Mare and Other Dark Materials,"Youngest Mare Material, Eratosthenian and Imbrian Systems",I-1162,True
+Id,Dark Mantling Material,Mare and Other Dark Materials,"Dark Mantling Material, Imbrian System",I-1162,True
+Im1,Oldest Mare Material,Mare and Other Dark Materials,"Oldest Mare Material, Imbrian System",I-1162,True
+Im2,Intermediate Mate Material,Mare and Other Dark Materials,"Intermediate Mate Material, Imbrian System",I-1162,True
+Imd,Mare Dome Material,Mare and Other Dark Materials,"Mare Dome Material, Imbrian System",I-1162,False
+Eld,Dark Material,Mare and Other Materials,"Dark Material, Eratosthenian or Imbrian System",I-0948,False
+Im1,Older Mare Material,Mare and Other Materials,"Older Mare Material, Imbrian System",I-0948,False
+Im2,Younger Mare Material,Mare and Other Materials,"Younger Mare Material, Imbrian System",I-0948,False
+Ics,Material of Smooth-Rimmed Craters,Material of Smooth-Rimmed Craters,"Material of Smooth-Rimmed Craters, Imbrian System",I-0703,False
+CEch,Material of Crater Chains and Clusters,Materials of Crater Chains and Clusters,"Material of Crater Chains and Clusters, Copernican and Eratosthenian Systems",I-0703,False
+Icc,Material of Crater Clusters and Chains,Materials of Crater Chains and Clusters,"Material of Crater Clusters and Chains, Imbrian System",I-0703,False
+Ich,Material of Crater Chains and Clusters,Materials of Crater Chains and Clusters,"Material of Crater Chains and Clusters, Imbrian System",I-0703,False
+Isc,Satellitic-Crater Material,Materials of Crater Chains and Clusters,"Satellitic-Crater Material, Imbrian System",I-0703,False
+pIch,Material of Crater Clusters and Chains,Materials of Crater Chains and Clusters,"Material of Crater Clusters and Chains, pre-Imbrian System",I-0703,False
+Cc1,Crater Material,Materials of Main-Sequence Craters,"Crater Material, Copernican System, sharp topographic detail",I-0703,False
+Cc2,Crater Material,Materials of Main-Sequence Craters,"Crater Material, Copernican System, very sharp topographic detail",I-0703,False
+Ic1,Crater Material,Materials of Main-Sequence Craters,"Crater Material, Imbrian System, all topographic elements subdued",I-0703,False
+Ic2,Crater Material,Materials of Main-Sequence Craters,"Crater Material, Imbrian System, rim crest and interior terraces moderately sharp",I-0703,False
+pIc1,Crater Material,Materials of Main-Sequence Craters,"Crater Material, pre-Imbrian System, broad, low-rimmed ring",I-0703,False
+pIc2,Crater Material,Materials of Main-Sequence Craters,"Crater Material, pre-Imbrian System, low, incomplete rim ring",I-0703,False
+pIc3,Crater Material,Materials of Main-Sequence Craters,"Crater Material, pre-Imbrian System, considerably subdued, raised rim ring",I-0703,False
+Cc,Youngest Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Youngest Crater Material, Copernican System",I-1162,True
+Csc,Secondary-Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Secondary-Crater Material, Copernican System",I-1162,False
+Ec,Crater Material Younger Than Most Mare Material,Materials of Primary Impact Craters and Their Secondary Craters,"Crater Material Younger Than Most Mare Material, Eratosthenian System",I-1162,True
+Esc,Secondary-Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Secondary-Crater Material, Eratosthenian System",I-1162,False
+Ic1,Lower Imbrian Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Lower Imbrian Crater Material, Imbrian System",I-1162,True
+Ic2,Upper Imbrian Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Upper Imbrian Crater Material, Imbrian System",I-1162,True
+Isc,Secondary-Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Secondary-Crater Material, Imbrian System",I-1162,True
+Nc,Crater Material Younger Than Nectaris Basin but Older Than Imbrium Basin,Materials of Primary Impact Craters and Their Secondary Craters,"Crater Material Younger Than Nectaris Basin but Older Than Imbrium Basin, Nectarian System",I-1162,True
+Nsc,Secondary-Crater Material,Materials of Primary Impact Craters and Their Secondary Craters,"Secondary-Crater Material, Nectarian System",I-1162,False
+pNc,Crater Material Older Than Nectaris Basin,Materials of Primary Impact Craters and Their Secondary Craters,"Crater Material Older Than Nectaris Basin, pre-Nectarian System",I-1162,True
+IpIt,"Terra Material, Undivided",Nondistinctive Materials,"Terra Material, Undivided, Imbrian and pre-Imbrian Systems",I-0703,False
+It,"Terra Material, Undivided",Nondistinctive Materials,"Terra Material, Undivided, Imbrian System",I-0703,False
+Iohi,Hevellius Formation-Inner facies,Orientale Group,"Hevellius Formation-Inner facies, Imbrian System",I-1034,False
+Ioho,Hevellius Formation-Outer facies,Orientale Group,"Hevellius Formation-Outer facies, Imbrian System",I-1034,False
+Iohs,Hevellius Formation-Secondary crater facies,Orientale Group,"Hevellius Formation-Secondary crater facies, Imbrian System",I-1034,False
+Ioht,Hevellius Formation-Transverse facies,Orientale Group,"Hevellius Formation-Transverse facies, Imbrian System",I-1034,False
+Iom,Maunder Formation,Orientale Group,"Maunder Formation, Imbrian System",I-1034,False
+Iork,Montes Rook Formation-Knobby facies,Orientale Group,"Montes Rook Formation-Knobby facies, Imbrian System",I-1034,False
+Iorm,Montes Rook Formation-Massif facies,Orientale Group,"Montes Rook Formation-Massif facies, Imbrian System",I-1034,False
+INp,Light Plains,Other Materials,"Light Plains, Imbrian and Nectarian Systems",I-1047,True
+Ig,Material of Grooves and Mounds,Other Materials,"Material of Grooves and Mounds, Imbrian System",I-1047,False
+Im,Mare Materials of Dark Plains,Other Materials,"Mare Materials of Dark Plains, Imbrian System",I-1047,True
+Ip,Smooth Light Plains,Other Materials,"Smooth Light Plains, Imbrian System",I-1047,True
+It,Relatively Fresh Appearing Irregular Terra,Other Materials,"Relatively Fresh Appearing Irregular Terra, Imbrian System",I-1047,True
+Np,Highly Cratered Light Plains,Other Materials,"Highly Cratered Light Plains, Nectarian System",I-1047,True
+NpNt,Irregular Terra,Other Materials,"Irregular Terra, Nectarian and pre-Nectarian Systems",I-1047,True
+Nt,Rolling Terra,Other Materials,"Rolling Terra, Nectarian System",I-1047,True
+pNt,Cratered Terra,Other Materials,"Cratered Terra, pre-Nectarian System",I-1047,True
+INfp,Furrowed and Pitted Material,Other Terra Materials,"Furrowed and Pitted Material, Imbrian or Nectarian System",I-0948,False
+INp,Light Colored Plains Material,Other Terra Materials,"Light Colored Plains Material, Imbrian or Nectarian System",I-0948,False
+INt,Terra Material,Other Terra Materials,"Terra Material, Imbrian and Nectarian Systems",I-1062,True
+Ip,Light Colored Plains Material,Other Terra Materials,"Light Colored Plains Material, Imbrian System",I-0948,True
+Ip,Undivided Plains Material,Other Terra Materials,"Undivided Plains Material, Imbrian System",I-1062,True
+Ip1,Older Plains Material,Other Terra Materials,"Older Plains Material, Imbrian System",I-1062,False
+Ip2,Younger Plains Material,Other Terra Materials,"Younger Plains Material, Imbrian System",I-1062,False
+IpNt,Terra Material,Other Terra Materials,"Terra Material, Imbrian, Nectarian, and pre-Nectarian Systems",I-1062,False
+It,Terra Mantling Material,Other Terra Materials,"Terra Mantling Material, Imbrian System",I-0948,True
+It,Terra Material,Other Terra Materials,"Terra Material, Imbrian System",I-1062,True
+Np,Light Colored Plains Material,Other Terra Materials,"Light Colored Plains Material, Nectarian System",I-0948,False
+NpNt,Material of Partly Mantled Terra,Other Terra Materials,"Material of Partly Mantled Terra, Nectarian and pre-Nectarian System",I-0948,False
+NpNt,Terra Material,Other Terra Materials,"Terra Material, Nectarian and pre-Nectarian Systems",I-1062,True
+Nt,Terra Mantling Material,Other Terra Materials,"Terra Mantling Material, Nectarian System",I-0948,False
+Nt,Terra Material,Other Terra Materials,"Terra Material, Nectarian System",I-1062,True
+pNt,Material of Unmantled Terra,Other Terra Materials,"Material of Unmantled Terra, pre-Nectarian System",I-0948,False
+pNt,Terra Material,Other Terra Materials,"Terra Material, pre-Nectarian System",I-1062,True
+INt,Terra Material,Probable Basin-Related Materials,"Terra Material, Imbrian and Nectarian Systems",I-1162,True
+Ifc,Fractured Crater Floor Material,Probable Basin-Related Materials,"Fractured Crater Floor Material, Imbrian System",I-1162,True
+Ip,Plains Material,Probable Basin-Related Materials,"Plains Material, Imbrian System",I-1162,True
+IpNg,Grooved Material,Probable Basin-Related Materials,"Grooved Material, Imbrian, Nectarian, and pre-Nectarian Systems",I-1162,False
+IpNt,Terra Material,Probable Basin-Related Materials,"Terra Material, Imbrian, Nectarian, and pre-Nectarian Systems",I-1162,True
+NpNt,Terra Material,Probable Basin-Related Materials,"Terra Material, Nectarian and pre-Nectarian Systems",I-1162,True
+Ntp,Terra-Mantling and Plains Material,Probable Basin-Related Materials,"Terra-Mantling and Plains Material, Nectarian System",I-1162,False
+pNt,Terra Material,Probable Basin-Related Materials,"Terra Material, pre-Nectarian System",I-1162,True
+Cc,Undivided Crater Material,Undivided Crater Materials,"Undivided Crater Material, Copernican System",I-0703,False
+Ic,Undivided Crater Material,Undivided Crater Materials,"Undivided Crater Material, Imbrian System",I-0703,False
+pIc,Undivided Crater Material,Undivided Crater Materials,"Undivided Crater Material, pre-Imbrian System",I-0703,False
+CEd,Dome Material,post-Orientale Group,"Dome Material, Copernican and Eratosthenian Systems",I-1034,True
+Cc,Crater Material,post-Orientale Group,"Crater Material, Copernican System",I-1034,True
+EIm,Mare Material,post-Orientale Group,"Mare Material, Eratosthenian and Imbrian Systems",I-1034,False
+EIph,Hilly Plateau Material,post-Orientale Group,"Hilly Plateau Material, Eratosthenian and Imbrian Systems",I-1034,False
+Ec,Crater Material,post-Orientale Group,"Crater Material, Eratosthenian System",I-1034,True
+Ic2,Crater Materials,post-Orientale Group,"Crater Materials, Imbrian System, post-Orientale Group",I-1034,True
+Ip,Plains Material,post-Orientale Group,"Plains Materials, Imbrian System",I-1034,True
+INt,Terra Material,pre-Orientale Group,"Terra Material, Imbrian and Nectarian Systems",I-1034,False
+Ic1,Crater Material,pre-Orientale Group,"Crater Material, Imbrian System, pre-Orientale Group",I-1034,True
+If,Fra Mauro Formation,pre-Orientale Group,"Fra Mauro Formation, Imbrian System",I-1034,True
+Nc,Crater Material,pre-Orientale Group,"Crater Material, Nectarian System",I-1034,True
+Nhb,Hertzsprung Basin Material,pre-Orientale Group,"Hertzsprung Basin Material, Nectarian System",I-1034,False
+Nhsc,Hertzsprung Secondary Crater Material,pre-Orientale Group,"Hertzsprung Secondary Crater Material, Nectarian System",I-1034,False
+NpNhf,Hilly and Furrowed Material,pre-Orientale Group,"Hilly and Furrowed Material, Nectarian and pre-Nectarian Systems",I-1034,False
+pNc,Crater Material,pre-Orientale Group,"Crater Material, pre-Nectarian System",I-1034,True

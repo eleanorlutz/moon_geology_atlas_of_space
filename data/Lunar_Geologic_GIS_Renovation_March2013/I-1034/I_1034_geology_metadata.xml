@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>David H. Scott</origin>
+				<origin>John F. McCauley</origin>
+				<origin>Mareta N. West</origin>
+				<pubdate>1977</pubdate>
+				<title Sync="TRUE">I_1034_geology</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<othercit>
+Miscellaneous Investigations Series, I-1034
+Published by the US Geological Survey, 1977
+</othercit>
+				<onlink Sync="TRUE">\\IGSWZAWGWSAG006\E\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1034\Geodatabase\I_1034.gdb</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin></origin>
+						<pubdate></pubdate>
+						<title></title>
+						<pubinfo>
+							<pubplace></pubplace>
+							<publish></publish>
+						</pubinfo>
+						<onlink></onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">I_1034_geology</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This map is one of a series of geologic maps that cover the entire Moon at a scale of 1:5,000,000. The map area extends from Oceanus Procellarum westward into the terrae of the western limb of the Moon and is dominated by the Orientale basin, a great multiringed impact structure about 1,000 km across. Elevations increase westward across the map from about 2.5 km in Oceanus Procellarum to more than 5 km in the highlands west of Orientale. The terrain is exceedingly rugged outward from the Montes Cordillera around Orientale but becomes increasingly smooth in the outer facies of the ejecta and beyond the ejecta deposits around the basin. Eight large older multiringed basins surround Orientale in this region of the Moon. With the exception of Orientale, only those adjacent to Oceanus Procellarum have their centers filled or partly filled with mare basalt.</abstract>
+			<supplinf>Some of Orientale's more noteworthy features include: (1) the greatest number (four) of clearly distinguishable rings of any basin, (2) the only continuously mappable ejecta blanket around a lunar basin, (3) the greatest number of distinct basin-associated geologic units, (4) the only basin showing impact produced basin floor materials unburied by mare basalts, (5) the only basin showing relict crater outlines within its major ring, (6) the last major ejecta blanket covering a large part of the Moon, (7) the only basin having a central mascon surrounded by a large well-defined negative gravity anomaly.</supplinf>
+			<langdata Sync="TRUE">en</langdata><purpose>The chief purpose of the 1:5,000,000-scale map is to summarize the current state of lunar geologic knowledge as developed from the U.S. Geological Survey's systematic lunar mapping program, which began in 1960. Like terrestrial synoptic maps it provides a stratigraphic framework to be used for developing new theory and for determining the regional significance of surface exploration results. The work is based both on results of the telescopic mapping program and on data from the unmanned lunar exploration program, particularly the regional coverage of Lunar Orbiter IV. The type of analysis presented on the 1:5,000,000 lunar geologic map, and indeed all remote planetary mapping, can be considered as geological taxonomy. In addition to serving as a framework for interpreting surface exploration results, the effort to classify units into type and age by photogeology narrows the range of possible origins for many features.</purpose></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>unknown</begdate>
+					<enddate>1977</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-140.000000</westbc>
+				<eastbc Sync="TRUE">-50.000000</eastbc>
+				<northbc Sync="TRUE">50.000000</northbc>
+				<southbc Sync="TRUE">-50.000000</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-140.000000</leftbc><rightbc Sync="TRUE">-50.000000</rightbc><bottombc Sync="TRUE">-50.000000</bottombc><topbc Sync="TRUE">50.000000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Moon</themekey>
+				<themekey>Geology</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Oceanus_Procellarum</placekey>
+				<placekey>Montes_Cordillera</placekey>
+				<placekey>Orientale_Basin</placekey>
+			</place>
+		</keywords>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Map Distribution</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Box 25286, Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+		<natvform Sync="TRUE">File Geodatabase Feature Class</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+All attributes created during the creation process were
+verified by displaying the lines in both the database and
+the spatial coverage, but no formal tests were performed.
+</attraccr>
+		</attracc>
+		<logic>
+These data are believed to be logically consistent, though
+no tests were performed. Line geometry is topologically clean.
+</logic>
+		<posacc>
+			<horizpa>
+			</horizpa>
+			<vertacc>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>David H. Scott</origin>
+						<origin>John F. McCauley</origin>
+						<origin>Mareta N. West</origin>
+						<pubdate>1977</pubdate>
+						<title>GEOLOGIC MAP OF THE WEST SIDE OF THE MOON</title>
+						<edition></edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>
+Miscellaneous Investigations Series, I-1034
+Published by the US Geological Survey, 1977
+</othercit>
+						<onlink></onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin></origin>
+								<pubdate></pubdate>
+								<title></title>
+								<pubinfo>
+									<pubplace></pubplace>
+									<publish></publish>
+								</pubinfo>
+								<onlink></onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>1:5,000,000</srcscale>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+						</rngdates>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>David H. Scott</origin>
+						<origin>John F. McCauley</origin>
+						<origin>Mareta N. West</origin>
+						<pubdate>1977</pubdate>
+						<title>GEOLOGIC MAP OF THE WEST SIDE OF THE MOON</title>
+						<edition></edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>
+Miscellaneous Investigations Series, I-1034
+Published by the US Geological Survey, 1977
+</othercit>
+						<onlink></onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin></origin>
+								<pubdate></pubdate>
+								<title></title>
+								<pubinfo>
+									<pubplace></pubplace>
+									<publish></publish>
+								</pubinfo>
+								<onlink></onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>1:5,000,000</srcscale>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate></begdate>
+							<enddate></enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr></srccurr>
+				</srctime>
+				<srccitea></srccitea>
+				<srccontr></srccontr>
+			</srcinfo>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Trent Hare</cntper>
+							<cntorg>United States Geological Survey</cntorg>
+						</cntperp>
+						<cntpos>Computer Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>2255 N Gemini Dr</address>
+							<city>Flagstaff</city>
+							<state>AZ</state>
+							<postal>86001</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>928-556-7126</cntvoice>
+						<cntemail>thare@usgs.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">E:\Temp\xml1D08.tmp</srcused><date Sync="TRUE">20080813</date><time Sync="TRUE">15290700</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">E:\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1034\Metadata\I_1034metadata.xml</srcused><procdate Sync="TRUE">20090714</procdate><proctime Sync="TRUE">08220700</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="I_1034_geology"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_Moon_1961</horizdn>
+				<ellips Sync="TRUE">Moon_1961_IAU_IAG</ellips>
+				<semiaxis Sync="TRUE">1738000.000000</semiaxis>
+				<denflat Sync="TRUE">infinity</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_Moon_1961</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">0.000100</altres></altsys></vertdef></spref>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+					<cntper>Trent Hare</cntper>
+				</cntorgp>
+				<cntpos>Computer Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2255 N Gemini Dr</address>
+					<city>Flagstaff</city>
+					<state>AZ</state>
+					<postal>86001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>928-556-7126</cntvoice>
+				<cntemail>thare@usgs.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>
+Information has been obtained from sources believed to be
+reliable, but its accuracy and completeness and the
+opinions based thereon, are not guaranteed. As every effort
+is made to provide accurate information in this database,
+USGS would appreciate it if users could call to our
+attention any errors that may occur by communicating with
+the contact person.
+</distliab>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20090722</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States Geological Survey</cntorg>
+					<cntper>Trent Hare</cntper>
+				</cntorgp>
+				<cntpos>Computer Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2255 N Gemini Dr</address>
+					<city>Flagstaff</city>
+					<state>AZ</state>
+					<postal>86001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>928-556-7126</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc></metainfo>
+	<Esri><CreaDate>20090714</CreaDate><CreaTime>08220700</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20130321</SyncDate><SyncTime>16104200</SyncTime><ModDate>20130321</ModDate><ModTime>16104200</ModTime><MetaID>{4F874DCA-66B9-48D2-A978-5DE4A020E1C5}</MetaID><DataProperties><itemProps><itemName Sync="TRUE">I_1034_geology</itemName><imsContentType Sync="TRUE">002</imsContentType><itemLocation><linkage Sync="TRUE">file://\\IGSWZAWGLT-THAR\D$\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1034\Shapefiles\I_1034_geology.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_Moon_2000</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_Moon_2000&amp;quot;,DATUM[&amp;quot;D_Moon_2000&amp;quot;,SPHEROID[&amp;quot;Moon_2000_IAU_IAG&amp;quot;,1737400.0,0.0]],PRIMEM[&amp;quot;Reference_Meridian&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;ESRI&amp;quot;,104903]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;3.2977886216808065e-008&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;104903&lt;/WKID&gt;&lt;LatestWKID&gt;104903&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="c:\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\FeatureToPoint" Date="20120229" Time="154446">FeatureToPoint E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\I_1034_geology E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\Labels_New INSIDE</Process><Process ToolSource="c:\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\FeatureToPolygon" Date="20120301" Time="145318">FeatureToPolygon Contacts_new E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\Geology_new5 # ATTRIBUTES Labels_New</Process><Process ToolSource="c:\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\FeatureToPoint" Date="20120301" Time="145553">FeatureToPoint Geology_new5 E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\Labels_New3 INSIDE</Process><Process ToolSource="c:\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\FeatureToPolygon" Date="20130320" Time="091443">FeatureToPolygon E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\I_1034_contacts E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\I_1034_geology # ATTRIBUTES E:\Lunar\Geology_New\I-1034\I_1034.gdb\I_1034_Moon1977_ographic\I_1034_labels</Process><Process ToolSource="c:\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20130321" Time="161042">CopyFeatures D:\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1034\I_1034.gdb\Geologic_Map_I1034\I_1034_geology D:\GIS\Moon\Lunar_Geo_Maps\For_Hosting\I-1034\Shapefiles\I_1034_geology.shp # 0 0 0</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</envirDesc><dataLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">I_1034_geology</resTitle><presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-140</westBL><eastBL Sync="TRUE">-50</eastBL><northBL Sync="TRUE">50</northBL><southBL Sync="TRUE">-50</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-140</westBL><eastBL Sync="TRUE">-50</eastBL><northBL Sync="TRUE">50</northBL><southBL Sync="TRUE">-50</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType></dataIdInfo><mdLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="006"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\IGSWZAWGWSAG006\E\Barchan\WorkWithOthers2\Lunar_FY09\LunarGeology\LunarGeology09_FinalProduct\I_1034\Geodatabase\I_1034.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">File Geodatabase Feature Class</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" value="104903" code="104903">GCS_Moon_1961</identCode><idCodeSpace Sync="TRUE">ESRI</idCodeSpace><idVersion Sync="TRUE">10.1.1</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="I_1034_geology"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20130321</mdDateSt><eainfo><detailed Name="I_1034_geology"><enttyp><enttypl Sync="TRUE">I_1034_geology</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc><enttypd>the geologic unit portion of the geologic map </enttypd></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">UnitSymbol</attrlabl><attalias Sync="TRUE">UnitSymbol</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Cc</edomv><edomvd>Crater Material, Copernican System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>CEd</edomv><edomvd>Dome Material, Copernican and Eratosthenian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ec</edomv><edomvd>Crater Material, Eratosthenian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>EIm</edomv><edomvd>Mare Material, Eratosthenian and Imbrian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>EIph</edomv><edomvd>Hilly Plateau Material, Eratosthenian and Imbrian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ic1</edomv><edomvd>Crater Materials, Imbrian System, post-Orientale Group</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ic2</edomv><edomvd>Crater Materials, Imbrian System, post-Orientale Group</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>If</edomv><edomvd>Fra Mauro Formation, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>INt</edomv><edomvd>Terra Material, Imbrian and Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Iohi</edomv><edomvd>Hevellius Formation-Inner facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ioho</edomv><edomvd>Hevellius Formation-Outer facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Iohs</edomv><edomvd>Hevellius Formation-Secondary crater facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ioht</edomv><edomvd>Hevellius Formation-Transverse facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Iom</edomv><edomvd>Maunder Formation, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Iork</edomv><edomvd>Montes Rook Formation-Knobby facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Iorm</edomv><edomvd>Montes Rook Formation-Massif facies, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Ip</edomv><edomvd>Plains Materials, Imbrian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nc</edomv><edomvd>Crater Material, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nhb</edomv><edomvd>Hertzsprung Basin Material, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>Nhsc</edomv><edomvd>Hertzsprung Secondary Crater Material, Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>NpNhf</edomv><edomvd>Hilly and Furrowed Material, Nectarian and pre-Nectarian Systems</edomvd><edomvds>UnitSymbol</edomvds></edom><edom><edomv>pNc</edomv><edomvd>Crater Material, pre-Nectarian System</edomvd><edomvds>UnitSymbol</edomvds></edom></attrdomv><attrdef>symbol representing a geologic unit</attrdef></attr><attr><attrlabl Sync="TRUE">UnitName</attrlabl><attalias Sync="TRUE">UnitName</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Crater Material</edomv><edomvd>Crater Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Crater Materials</edomv><edomvd>Crater Materials</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Dome Material</edomv><edomvd>Dome Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Fra Mauro Formation</edomv><edomvd>Fra Mauro Formation</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hertzsprung Basin Material</edomv><edomvd>Hertzsprung Basin Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hertzsprung Secondary Crater Material</edomv><edomvd>Hertzsprung Secondary Crater Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hevellius Formation-Inner facies</edomv><edomvd>Hevellius Formation-Inner facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hevellius Formation-Outer facies</edomv><edomvd>Hevellius Formation-Outer facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hevellius Formation-Secondary crater facies</edomv><edomvd>Hevellius Formation-Secondary crater facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hevellius Formation-Transverse facies</edomv><edomvd>Hevellius Formation-Transverse facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hilly and Furrowed Material</edomv><edomvd>Hilly and Furrowed Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Hilly Plateau Material</edomv><edomvd>Hilly Plateau Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Mare Material</edomv><edomvd>Mare Material</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Maunder Formation</edomv><edomvd>Maunder Formation</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Montes Rook Formation-Knobby facies</edomv><edomvd>Montes Rook Formation-Knobby facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Montes Rook Formation-Massif facies</edomv><edomvd>Montes Rook Formation-Massif facies</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Plains Materials</edomv><edomvd>Plains Materials</edomvd><edomvds>UnitName</edomvds></edom><edom><edomv>Terra Material</edomv><edomvd>Terra Material</edomvd><edomvds>UnitName</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">MajorGroup</attrlabl><attalias Sync="TRUE">MajorGroup</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Orientale Group</edomv><edomvd>Orientale Group</edomvd><edomvds>MajorGroup</edomvds></edom><edom><edomv>post-Orientale Group</edomv><edomvd>post-Orientale Group</edomvd><edomvds>MajorGroup</edomvds></edom><edom><edomv>pre-Orientale Group</edomv><edomvd>pre-Orientale Group</edomvd><edomvds>MajorGroup</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">Epoch</attrlabl><attalias Sync="TRUE">Epoch</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>Copernican and Eratosthenian Systems</edomv><edomvd>Copernican and Eratosthenian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Copernican System</edomv><edomvd>Copernican System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Eratosthenian and Imbrian Systems</edomv><edomvd>Eratosthenian and Imbrian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Eratosthenian System</edomv><edomvd>Eratosthenian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Imbrian and Nectarian Systems</edomv><edomvd>Imbrian and Nectarian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Imbrian System</edomv><edomvd>Imbrian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Nectarian and pre-Nectarian Systems</edomv><edomvd>Nectarian and pre-Nectarian Systems</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>Nectarian System</edomv><edomvd>Nectarian System</edomvd><edomvds>Epoch</edomvds></edom><edom><edomv>pre-Nectarian System</edomv><edomvd>pre-Nectarian System</edomvd><edomvds>Epoch</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">UnitDescri</attrlabl><attalias Sync="TRUE">UnitDescri</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ORIG_FID</attrlabl><attalias Sync="TRUE">ORIG_FID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Leng</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed><detailed Name="I_1034_geology"><enttyp><enttypl Sync="TRUE">I_1034_geology</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1602</enttypc></enttyp></detailed><detailed Name="I_1034_structure"><enttyp><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">944</enttypc></enttyp></detailed><detailed Name="I_1034_contacts"><enttyp><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">3347</enttypc></enttyp></detailed></eainfo></metadata>

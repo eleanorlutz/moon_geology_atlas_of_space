@@ -1,0 +1,533 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>I_0703_Geology</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This map is one of a series of geologic maps that cover the entire Moon at a scale of 1:5,000,000. The circular basins, generally encompassed by three or more partly complete scarps or ring systems, dominate the geology of the Moon's near side. Diameters of the innermost ring range from 250 to 600 km (kilometers), and the spacing of the three inner rings increases from one to the next by a regular ratio (Hartmann and Kuiper, 1962). The observed and inferred crest lines of the most prominent of these structures are shown by brown lines on the accompanying map. The depressed central parts of the basins and the concentric troughs which lie between successive rings are completely or partly filled with dark plains material (mare) which is younger than the basins and which appears to have been emplaced in a fluid and probably molten state. These basins and their subsequent mare fill have destroyed large parts of the earlier geologic record, and in this respect have acted like terrestrial orogenies. The historical geology of the Moon can be understood only in terms of these dominant, primitive structures which, if ever present on Earth, have long since been obliterated or deeply buried and severely modified.</abstract>
+      <purpose>The chief purpose of the 1:5,000,000-scale map is to summarize the current state of lunar geologic knowledge as developed from the U.S. Geological Survey's systematic lunar mapping program, which began in 1960. Like terrestrial synoptic maps it provides a stratigraphic framework to be used for developing new theory and for determining the regional significance of surface exploration results. The work is based both on results of the telescopic mapping program and on data from the unmanned lunar exploration program, particularly the regional coverage of Lunar Orbiter IV. The type of analysis presented on the 1:5,000,000 lunar geologic map, and indeed all remote planetary mapping, can be considered as geological taxonomy. In addition to serving as a framework for interpreting surface exploration results, the effort to classify units into type and age by photogeology narrows the range of possible origins for many features.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>-70.007079</westbc>
+        <eastbc>70.010998</eastbc>
+        <northbc>64.003806</northbc>
+        <southbc>-64.006965</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Moon</themekey>
+        <themekey>Geology</themekey>
+        <themekey>mare_material</themekey>
+      </theme>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <datacred>Corey Fortezzo and Trent Hare, USGS, Astrogeology</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>5694</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>3.2977886216808051e-008</latres>
+        <longres>3.2977886216808051e-008</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D Moon 2000</horizdn>
+        <ellips>Moon 2000 IAU IAG</ellips>
+        <semiaxis>1737400.0</semiaxis>
+        <denflat>0.0</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>I_0703_Geology</enttypl>
+        <enttypd>the geologic unit portion of the geologic map </enttypd>
+        <enttypds>none</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UnitSymbol</attrlabl>
+        <attrdef>symbol representing geologic unit</attrdef>
+        <attrdomv>
+          <edom>
+            <edomv>Border</edomv>
+            <edomvd>Areas created to define border</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Em</edomv>
+            <edomvd>Mare material, Eratosthenian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Im</edomv>
+            <edomvd>Mare Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Emd</edomv>
+            <edomvd>Mare Dome Material, Eratosthenian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Emp</edomv>
+            <edomvd>Mare Plateau Material, Eratosthenian Systemp</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>CId</edomv>
+            <edomvd>Dark Mantling Material, Copernican, Eratosthenian, and Imbrian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ihe</edomv>
+            <edomvd>Hevelius Formation, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>If</edomv>
+            <edomvd>Fra Mauro Formation, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ial</edomv>
+            <edomvd>Alpes Formation, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Iap</edomv>
+            <edomvd>Material of Montes Apenninus, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIj</edomv>
+            <edomvd>Janssen Formation, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIl</edomv>
+            <edomvd>Lineated Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIr</edomv>
+            <edomvd>Rugged Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Cp</edomv>
+            <edomvd>Plains Material, Copernican System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>CEd</edomv>
+            <edomvd>Dome Material, Copernican and Eratosthenian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>CEhf</edomv>
+            <edomvd>Hilly and Furrowed Material, Copernican and Eratosthenian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ip</edomv>
+            <edomvd>Plains Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Id</edomv>
+            <edomvd>Dome Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ih</edomv>
+            <edomvd>Hilly Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ihf</edomv>
+            <edomvd>Hilly and Furrowed Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ihp</edomv>
+            <edomvd>Hilly and Pitted Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIp</edomv>
+            <edomvd>Plains Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>It</edomv>
+            <edomvd>Terra Material, Undivided, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>IpIt</edomv>
+            <edomvd>Terra Material, Undivided, Imbrian and pre-Imbrian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Cc2</edomv>
+            <edomvd>Crater Material, Copernican System, very sharp topographic detail</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Cc1</edomv>
+            <edomvd>Crater Material, Copernican System, sharp topographic detail</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ec</edomv>
+            <edomvd>Crater Material, Eratosthenian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ic2</edomv>
+            <edomvd>Crater Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ic1</edomv>
+            <edomvd>Crater Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIc3</edomv>
+            <edomvd>Crater Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIc2</edomv>
+            <edomvd>Crater Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIc1</edomv>
+            <edomvd>Crater Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>CEch</edomv>
+            <edomvd>Material of Crater Chains and Clusters, Copernican and Eratosthenian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ich</edomv>
+            <edomvd>Material of Crater Chains and Clusters, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Isc</edomv>
+            <edomvd>Satellitic-Crater Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Icc</edomv>
+            <edomvd>Material of Crater Clusters and Chains, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIch</edomv>
+            <edomvd>Material of Crater Clusters and Chains, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>CEci</edomv>
+            <edomvd>Irregular-Crater Material, Copernican and Eratosthenian Systems</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ici</edomv>
+            <edomvd>Irregular-Crater Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIci</edomv>
+            <edomvd>Irregular-Crater Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ics</edomv>
+            <edomvd>Material of Smooth-Rimmed Craters, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Cc</edomv>
+            <edomvd>Undivided Crater Material, Copernican System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>Ic</edomv>
+            <edomvd>Undivided Crater Material, Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+          <edom>
+            <edomv>pIc</edomv>
+            <edomvd>Undivided Crater Material, pre-Imbrian System</edomvd>
+            <edomvds>UnitSymbol</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UnitName</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>Alpes Formation</edomv>
+            <edomvd>Alpes Formation</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Crater Material</edomv>
+            <edomvd>Crater Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Dark Mantling Material</edomv>
+            <edomvd>Dark Mantling Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Dome Material</edomv>
+            <edomvd>Dome Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Fra Mauro Formation</edomv>
+            <edomvd>Fra Mauro Formation</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Hevelius Formation</edomv>
+            <edomvd>Hevelius Formation</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Hilly and Furrowed Material</edomv>
+            <edomvd>Hilly and Furrowed Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Hilly and Pitted Material</edomv>
+            <edomvd>Hilly and Pitted Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Hilly Material</edomv>
+            <edomvd>Hilly Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Irregular-Crater Material</edomv>
+            <edomvd>Irregular-Crater Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Janssen Formation</edomv>
+            <edomvd>Janssen Formation</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Lineated Material</edomv>
+            <edomvd>Lineated Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Mare Dome Material</edomv>
+            <edomvd>Mare Dome Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Mare Material</edomv>
+            <edomvd>Mare Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Mare Plateau Material</edomv>
+            <edomvd>Mare Plateau Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Material of Crater Chains and Clusters</edomv>
+            <edomvd>Material of Crater Chains and Clusters</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Material of Montes Apenninus</edomv>
+            <edomvd>Material of Montes Apenninus</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Material of Smooth-Rimmed Craters</edomv>
+            <edomvd>Material of Smooth-Rimmed Craters</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Plains Material</edomv>
+            <edomvd>Plains Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Rugged Material</edomv>
+            <edomvd>Rugged Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Satellitic-Crater Material</edomv>
+            <edomvd>Satellitic-Crater Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Terra Material, Undivided</edomv>
+            <edomvd>Terra Material, Undivided</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+          <edom>
+            <edomv>Undivided Crater Material</edomv>
+            <edomvd>Undivided Crater Material</edomvd>
+            <edomvds>UnitName</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MajorGroup</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>Dark Materials</edomv>
+            <edomvd>Dark Materials</edomvd>
+            <edomvds>Major_Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>Circumbasin Materials</edomv>
+            <edomvd>Circumbasin Materials</edomvd>
+            <edomvds>Major_Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>Crater Materials</edomv>
+            <edomvd>Crater Materials</edomvd>
+            <edomvds>Major_Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>Terra Plain, Plateau, and Dome Materials</edomv>
+            <edomvd>Terra Plain, Plateau, and Dome Materials</edomvd>
+            <edomvds>Major_Group</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Epoch</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>Copernican System</edomv>
+            <edomvd>Copernican System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Eratosthenian System</edomv>
+            <edomvd>Eratosthenian System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Imbrian System</edomv>
+            <edomvd>Imbrian System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Pre-Imbrian</edomv>
+            <edomvd>Pre-Imbrian</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Imbrian / Eratosthenian System</edomv>
+            <edomvd>Imbrian / Eratosthenian System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Pre-Imbrian / Imbrian  System</edomv>
+            <edomvd>Pre-Imbrian / Imbrian  System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+          <edom>
+            <edomv>Eratosthenian / Copernican System</edomv>
+            <edomvd>Eratosthenian / Copernican System</edomvd>
+            <edomvds>Epoch</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UnitDescription</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ORIG_FID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Length</attrlabl>
+        <attrdef>Length of feature in internal units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distliab>See access and use constraints information.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>File Geodatabase Feature Class</formname>
+        </digtinfo>
+        <digtopt />
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20130321</metd>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
